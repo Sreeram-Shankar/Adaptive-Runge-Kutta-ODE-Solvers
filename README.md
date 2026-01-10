@@ -37,6 +37,7 @@ This makes the library ideal for:
 - Adaptive step size via **Euler defect PI controller**
 - No embedded RK pairs
 - No order-dependent error scaling
+- Python and Julia implementations
 
 Intended for:
 - nonstiff problems
@@ -190,4 +191,3 @@ Because step size is governed by Euler defect:
 - Stiffness is handled through Newton success, not detection heuristics
 
 These behaviors are expected and reflect the library’s design.
-
