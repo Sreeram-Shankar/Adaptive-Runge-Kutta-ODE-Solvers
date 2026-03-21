@@ -50,7 +50,7 @@ Intended for:
 
 - **Gauss–Legendre** methods  
 - **Radau IIA** methods  
-- **Lobatto IIIC** methods  
+- **Lobatto IIIA** methods  
 - Arbitrary stage count (practical limits apply)
 
 Features:
